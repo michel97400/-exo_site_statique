@@ -75,7 +75,7 @@ Ce projet utilise une approche agile avec :
 
 ## 🤝 Contribution
 
-Ce projet est un exercice personnel. Les contributions externes ne sont pas acceptées pour maintenir l'objectif pédagogique de développement autonome.
+****
 
 ## 📝 Licence
 
