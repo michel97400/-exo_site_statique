@@ -74,4 +74,17 @@ header nav ul {
   font-size: 16px;
 }
 
-#button_write
+#button_write {
+  background-color: #E40046;
+  color: white;
+  border-radius: 999px;
+  padding: .8rem 2rem;
+}
+
+#button_exemple {
+  background: transparent;
+  color: #E40046;
+  padding: .8rem 2rem;
+  border: 1px solid #E40046;
+  border-radius: 999px;
+}
