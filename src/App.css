@@ -88,3 +88,31 @@ header nav ul {
   border: 1px solid #E40046;
   border-radius: 999px;
 }
+
+section {
+  scroll-margin-top: 80px;
+  padding: 10vw;
+}
+
+.card {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 1.2rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, .08);
+}
+
+.container-card {
+  display: flex;
+  gap: 1rem;
+}
+
+article {
+  display: block;
+  unicode-bidi: isolate;
+}
+
+.container {
+  width: 92%;
+  margin-inline: auto;
+}
