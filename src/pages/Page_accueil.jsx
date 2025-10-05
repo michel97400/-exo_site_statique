@@ -13,6 +13,27 @@ function Accueil() {
                 </div>
             </div>
         </section>
+        <section id="services" class="section">
+            <div class="container">
+                <h2 class="section-title">Nos services</h2>
+                <div className="container-card">
+                    
+                    <article class="card">
+                        <h3>Conception</h3>
+                        <p>Ateliers cadrage, maquettes sobres et centrées utilisateur.</p>
+                    </article>
+                    <article class="card">
+                        <h3>Développement</h3>
+                        <p>HTML/CSS/JS propres et personnalisables.</p>
+                    </article>
+                    <article class="card">
+                        <h3>Maintenance</h3>
+                        <p>Mises à jour de contenu, optimisation continue et support.</p>
+                    </article>
+                </div>
+                
+            </div>
+        </section>
     </>
 }
 
